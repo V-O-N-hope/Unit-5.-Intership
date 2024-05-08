@@ -51,7 +51,7 @@ Git обнаружит конфликт слияния. Вам нужно буд
 
 Просмотрите историю коммитов: git log
 
-[git log execution]("git log.png")
+[git log execution]("https://github.com/V-O-N-hope/Unit-5.-Intership/blob/master/git%20log.png")
 
 Найдите коммит по его хешу: git log <хеш_коммита>
 
