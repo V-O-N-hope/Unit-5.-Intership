@@ -51,9 +51,11 @@ Git обнаружит конфликт слияния. Вам нужно буд
 
 Просмотрите историю коммитов: git log
 
-[git log execution]("https://github.com/V-O-N-hope/Unit-5.-Intership/blob/master/git%20log.png")
+![git log execution](git_log.png)
 
 Найдите коммит по его хешу: git log <хеш_коммита>
+
+![git log execution](git_log_hash.png)
 
 Покажите изменения, сделанные в конкретном коммите: git diff <хеш_коммита>
 
@@ -62,3 +64,5 @@ Git обнаружит конфликт слияния. Вам нужно буд
 Откатите последний коммит: git reset HEAD~1
 
 Откатите все изменения, не зафиксированные в коммитах: git checkout -- <имя_файла>
+
+
